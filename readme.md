@@ -48,8 +48,10 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 
 ## Infrastructure as Code
 
-- [Terraform Provider Alicloud](https://www.terraform.io/docs/providers/alicloud/index.html)
-- [Terraform Provider Alicloud DEV](http://47.95.33.19:4567/docs/providers/alicloud/)
+- [Terraform Provider (stable)](https://www.terraform.io/docs/providers/alicloud/index.html)
+- [Terraform Provider (stable)](https://github.com/terraform-providers/terraform-provider-alicloud)
+- [Terraform Provider (dev)](http://47.95.33.19:4567/docs/providers/alicloud/)
+- [Terraform Examples (dev)](https://github.com/alibaba/terraform-provider/tree/master/terraform/examples)
 - [Infrastructure Automation Quickstart](https://github.com/ellerbrock/alibaba-cloud-terraform-github-travis) for Alibaba Cloud with Github, Travis and Terraform
 - [SDK Overview](https://www.alibabacloud.com/support/developer-resources)
 - [Go Lang SDK](https://github.com/aliyun/alibaba-cloud-sdk-go)
