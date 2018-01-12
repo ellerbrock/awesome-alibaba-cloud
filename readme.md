@@ -35,14 +35,14 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 
 ## Architecture
 
-- <https://www.alibabacloud.com/help/doc-detail/25978.htm>
-- <https://www.alibabacloud.com/help/doc-detail/27544.htm>
-- <https://www.alibabacloud.com/help/doc-detail/27105.htm>
-- <https://www.alibabacloud.com/help/doc-detail/34221.htm>
-- <https://www.alibabacloud.com/help/doc-detail/29003.htm>
-- <https://www.alibabacloud.com/help/doc-detail/26598.htm>
-- <https://www.alibabacloud.com/help/doc-detail/28070.htm>
-- <https://www.alibabacloud.com/solutions/data-migration/cloud-architecture>
+- [Container Service](https://www.alibabacloud.com/help/doc-detail/25978.htm)
+- [Server Load Balancer](https://www.alibabacloud.com/help/doc-detail/27544.htm)
+- [Alibaba Cloud CDN](https://www.alibabacloud.com/help/doc-detail/27105.htm)
+- [Virtual Private Cloud](https://www.alibabacloud.com/help/doc-detail/34221.htm)
+- [Log Service](https://www.alibabacloud.com/help/doc-detail/29003.htm)
+- [Data Transmission Service](https://www.alibabacloud.com/help/doc-detail/26598.htm)
+- [E-MapReduce](https://www.alibabacloud.com/help/doc-detail/28070.htm)
+- [Architecture and Structure Design](https://www.alibabacloud.com/solutions/data-migration/cloud-architecture)
 - [Container - Microservices Solution](https://www.alibabacloud.com/solutions/devops/microservices?spm=a3c0i.165268.860347.4.e03ab142dRlVE)
 - [DevOps Solution](https://www.alibabacloud.com/solutions/devops?spm=a3c0i.157378.675768.dnavsolutions10.7e6d776dZ1kxLG)
 - [Bootstrapping](https://www.alibabacloud.com/help/doc-detail/57445.htm?spm=a3c0i.o28635en.b99.8.e22521c8x1qsf)
@@ -50,25 +50,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 
 ## Infrastructure as Code
 
-Write, Plan, and Create Infrastructure as Code with [Terraform](https://www.terraform.io/).
-
-
-### Examples
-
-- <https://www.terraform.io/docs/providers/alicloud/index.html>
-- <http://47.95.33.19:4567/docs/providers/alicloud/>
-- <https://registry.terraform.io/browse?provider=alicloud>
-- <https://github.com/terraform-providers/terraform-provider-alicloud/>
-- <https://github.com/alibaba/terraform-provider/tree/master/terraform/examples>
-- <https://github.com/terraform-providers/terraform-provider-docker>
-- <https://github.com/mdb/terraform-example>
-- <https://github.com/travis-infrastructure/terraform-config>
-
-
-### Travis CI/CD
-
-- <https://github.com/travis-ci/>
-- <https://docs.travis-ci.com/user/docker/>
+- [Infrastructure as Code Automatization](https://github.com/ellerbrock/alibaba-cloud-terraform-github-travis) for Alibaba Cloud with Github, Travis and Terraform
 
 
 ## Articles
