@@ -45,8 +45,6 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Architecture and Structure Design](https://www.alibabacloud.com/solutions/data-migration/cloud-architecture)
 - [Container - Microservices Solution](https://www.alibabacloud.com/solutions/devops/microservices?spm=a3c0i.165268.860347.4.e03ab142dRlVE)
 - [DevOps Solution](https://www.alibabacloud.com/solutions/devops?spm=a3c0i.157378.675768.dnavsolutions10.7e6d776dZ1kxLG)
-- [Bootstrapping](https://www.alibabacloud.com/help/doc-detail/57445.htm?spm=a3c0i.o28635en.b99.8.e22521c8x1qsf)
-
 
 ## Infrastructure as Code
 - [Terraform Provider Alicloud](https://www.terraform.io/docs/providers/alicloud/index.html)
