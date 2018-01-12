@@ -20,7 +20,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Document Center](https://www.alibabacloud.com/help?spm=a3c0i.o48869en.a1.1.5be31771R6AZIr)
 - [Terraform](https://www.alibabacloud.com/solutions/devops/terraform)
 - [Alibaba Cloud Tutorials](https://www.alibabacloud.com/getting-started/projects?spm=a3c0i.8276058.620478.4.118816abcfi1Xq)
-- [Alibaba Cloud SDK](https://www.alibabacloud.com/support/developer-resources?spm=a3c0i.8276058.620481.2.118816abcfi1Xq)
+- [Developer Resources](https://www.alibabacloud.com/support/developer-resources)
 - [Forum](https://www.alibabacloud.com/forum/index.php?spm=a3c0i.8276058.620481.3.118816abcfi1Xq)
 
 
@@ -51,6 +51,8 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 ## Infrastructure as Code
 - [Terraform Provider Alicloud](https://www.terraform.io/docs/providers/alicloud/index.html)
 - [Infrastructure Automation Quickstart](https://github.com/ellerbrock/alibaba-cloud-terraform-github-travis) for Alibaba Cloud with Github, Travis and Terraform
+- [SDK Overview](https://www.alibabacloud.com/support/developer-resources)
+- [Go Lang SDK](https://github.com/aliyun/alibaba-cloud-sdk-go)
 
 
 ## Articles
