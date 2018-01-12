@@ -4,7 +4,7 @@
 
 ## Build Status
 
-[![Deadlink Test](https://travis-ci.org/ellerbrock/awesome-koa.svg?branch=master)](https://travis-ci.org/ellerbrock/awesome-koa)
+[![Deadlink Test](https://travis-ci.org/ellerbrock/awesome-alibaba-cloud.svg?branch=master)](https://travis-ci.org/ellerbrock/awesome-alibaba-cloud)
 
 **Info:** Green Build Status means there should be no Deadlinks in this List.<br>
 You can find the Testfiles on [travis-deadlink-scanner](https://github.com/ellerbrock/travis-deadlink-scanner)
