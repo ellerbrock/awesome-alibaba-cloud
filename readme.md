@@ -55,7 +55,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Infrastructure Automation Quickstart](https://github.com/ellerbrock/alibaba-cloud-terraform-github-travis) for Alibaba Cloud with Github, Travis and Terraform
 - [SDK Overview](https://www.alibabacloud.com/support/developer-resources)
 - [Go Lang SDK](https://github.com/aliyun/alibaba-cloud-sdk-go)
-
+- [Remote State Backend OSS (pr open)](https://github.com/hashicorp/terraform/pull/16927)
 
 ## Articles
 
