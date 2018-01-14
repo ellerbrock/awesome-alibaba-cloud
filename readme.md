@@ -46,6 +46,11 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Container - Microservices Solution](https://www.alibabacloud.com/solutions/devops/microservices?spm=a3c0i.165268.860347.4.e03ab142dRlVE)
 - [DevOps Solution](https://www.alibabacloud.com/solutions/devops?spm=a3c0i.157378.675768.dnavsolutions10.7e6d776dZ1kxLG)
 
+## Security
+
+- [RAM Best Practices](https://www.alibabacloud.com/help/doc-detail/28642.htm)
+- [Primary account security best practices](https://www.alibabacloud.com/help/doc-detail/28643.htm)
+
 ## Infrastructure as Code
 
 - [Terraform Provider (stable)](https://www.terraform.io/docs/providers/alicloud/index.html)
