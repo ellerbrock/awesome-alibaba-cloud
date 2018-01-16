@@ -2,6 +2,7 @@
 
 # Awesome Alibaba Cloud ![awesome alibaba](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) [![MIT](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![open source love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) 
 
+
 ## Build Status
 
 [![Deadlink Test](https://travis-ci.org/ellerbrock/awesome-alibaba-cloud.svg?branch=master)](https://travis-ci.org/ellerbrock/awesome-alibaba-cloud)
@@ -10,6 +11,7 @@
 You can find the Testfiles on [travis-deadlink-scanner](https://github.com/ellerbrock/travis-deadlink-scanner)
 
 ![you have to love what you do](https://github.frapsoft.com/top/love-what-you-do.jpg)
+
 
 
 ## Documentation
@@ -24,13 +26,14 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Forum](https://www.alibabacloud.com/forum/index.php?spm=a3c0i.8276058.620481.3.118816abcfi1Xq)
 
 
+
 ## Open Source Projects
 
 - [Official Github Account](https://github.com/alibaba)
 - [Alibaba Cloud Github Marketplace](https://www.alibabacloud.com/marketplace/index.htm?spm=a3c0i.51000002.756398.1.13b289acDxJWjn)
 - [Efficient Container Engine based on Open Container Initiative Standards](https://github.com/alibaba/pouch)
 - [A Deep Insight of Alibaba Open Source Project - Pouch](https://www.alibabacloud.com/blog/A-Deep-Insight-of-Alibaba-Open-Source-Project---Pouch_p295733)
-- [Dragonfly - Intelligent P2P based file distribution system](https://github.com/alibaba/Dragonfly)
+- [Dragonfly - Intelligent P2P based file distribution system](https://github.com/alibaba/Dragonfly) 
 
 
 ## Architecture
@@ -45,11 +48,16 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Architecture and Structure Design](https://www.alibabacloud.com/solutions/data-migration/cloud-architecture)
 - [Container - Microservices Solution](https://www.alibabacloud.com/solutions/devops/microservices?spm=a3c0i.165268.860347.4.e03ab142dRlVE)
 - [DevOps Solution](https://www.alibabacloud.com/solutions/devops?spm=a3c0i.157378.675768.dnavsolutions10.7e6d776dZ1kxLG)
+- [Forum for Industry Solutions & Cloud Architectures](https://www.alibabacloud.com/forum/thread-37)
+
 
 ## Security
 
 - [RAM Best Practices](https://www.alibabacloud.com/help/doc-detail/28642.htm)
 - [Primary account security best practices](https://www.alibabacloud.com/help/doc-detail/28643.htm)
+- [Policy Overview + Variables](https://www.alibabacloud.com/help/doc-detail/28664.htm)
+- [OSS Server Side Encryption](https://www.alibabacloud.com/help/doc-detail/31871.htm)
+
 
 ## Infrastructure as Code
 
@@ -64,6 +72,24 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Go Lang SDK](https://github.com/aliyun/alibaba-cloud-sdk-go)
 - [Remote State Backend OSS (pr open)](https://github.com/hashicorp/terraform/pull/16927)
 - [Packer Alicloud Image Builder ECS](https://www.packer.io/docs/builders/alicloud-ecs.html)
+
+## Docker
+
+- [aliyuncli](https://hub.docker.com/r/ellerbrock/alpine-aliyuncli/) - Google's PerfKit Benchmarker ready to run for the Alibaba Cloud.
+- [perfkit-alicloud](https://hub.docker.com/r/ellerbrock/perfkit-alicloud/) - 
+Alibaba Cloud CLI aka `aliyuncli` based on Alpine Linux running as unprivileged User.
+
+## Benchmarking
+
+- [Google's PerfKit Benchmarker in a Docker Container](https://hub.docker.com/r/ellerbrock/perfkit-alicloud/) -  ready to run on the Alibaba Cloud!
+- [Google's PerfKit Benchmarker](https://github.com/GoogleCloudPlatform/)
+- [Google's PerfKit Exporter](https://github.com/GoogleCloudPlatform/PerfKitExplorer)
+
+
+## Blog / News
+
+- [Alibaba Cloud Blog](https://www.alibabacloud.com/blog/)
+
 
 ## Articles
 
